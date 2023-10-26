@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/07 20:00:34.000.905,=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/10/07 20:00:35.000.020,=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/10/07 20:01:53.000.657,=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2023/10/07 20:02:09.000.785,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UNumeroNatural.cpp=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2023/10/07 20:02:09.000.785,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UNumeroNatural.h=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2023/10/07 20:02:22.000.888,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.h=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/10/07 20:02:22.000.888,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.cpp=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/10/07 20:02:22.000.888,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.dfm=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/10/07 20:02:46.000.471,C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\PNumeroNatural.cbproj=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/10/07 20:03:32.000.959,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\CNumeroNatural\UNumeroNatural.cpp=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UNumeroNatural.cpp</Transaction>
+    <Transaction>2023/10/07 20:03:32.000.959,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\CNumeroNatural\UNumeroNatural.h=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UNumeroNatural.h</Transaction>
+    <Transaction>2023/10/07 20:03:36.000.157,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\CNumeroNatural\UPrincipal.cpp=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.cpp</Transaction>
+    <Transaction>2023/10/07 20:03:36.000.157,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\CNumeroNatural\UPrincipal.dfm=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.dfm</Transaction>
+    <Transaction>2023/10/07 20:03:36.000.157,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\CNumeroNatural\UPrincipal.h=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\UPrincipal.h</Transaction>
+    <Transaction>2023/10/07 20:03:38.000.485,E:\1. Fran\UAGRM\Auxiliatura 2023\Programacion II - 2_2023\CNumeroNatural\PNumeroNatural.cbproj=C:\Users\vacaf\OneDrive\Documentos\Embarcadero\Studio\Projects\PNumeroNatural.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
