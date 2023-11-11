@@ -68,3 +68,9 @@ void __fastcall TForm1::Button5Click(TObject *Sender)
 }
 //---------------------------------------------------------------------------
 
+void __fastcall TForm1::Button6Click(TObject *Sender)
+{
+	EResultado->Text = numero->inversiones();
+}
+//---------------------------------------------------------------------------
+

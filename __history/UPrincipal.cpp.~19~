@@ -35,5 +35,36 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 void __fastcall TForm1::Button2Click(TObject *Sender)
 {
 	numero->setN(StrToInt(ENumero->Text));
+
+	//  ENumero->Text = "192";
+
+	//  StrToInt("12") // 12;
 }
 //---------------------------------------------------------------------------
+void __fastcall TForm1::Button3Click(TObject *Sender)
+{
+	numero->eliminarImpares();
+	EResultado->Text = numero->getN();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::Button4Click(TObject *Sender)
+{
+	int pos1 = StrToInt(EPos1->Text);
+	int pos2 = StrToInt(EPos2->Text);
+	numero->eliminarRango(pos1, pos2);
+	EResultado->Text = numero->getN();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::Button5Click(TObject *Sender)
+{
+	short base = StrToInt(EBase->Text);
+	if (numero->convertirABase(base) == 0) {
+		ShowMessage("El valor de base es mayor a 10");
+	} else {
+		EResultado->Text = numero->convertirABase(base);
+	}
+}
+//---------------------------------------------------------------------------
+

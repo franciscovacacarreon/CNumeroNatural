@@ -83,35 +83,3 @@ unsigned long CNumeroNatural::convertirABase(short base) {
 	}
 	return auxN;
 }
-
-short CNumeroNatural::inversiones() {
-	int contador = 0;
-	unsigned long aux = invertirNumero(n);
-	unsigned long aux2 = invertirNumero(n);
-	short dig = 0;
-	short dig2 = 0;
-	while (aux > 0) {
-		dig = aux % 10;
-		aux = aux / 10;
-		while (aux2 > 0) {
-			dig2 = aux2 % 10;
-			aux2 = aux2 / 10;
-			if (dig2 < dig) {
-				contador++;
-			}
-		}
-		aux2 = aux;
-	}
-	return contador;
-}
-
-//Esta funcion retorna un numero invertido
-unsigned long CNumeroNatural::invertirNumero(unsigned long numero) {
-	unsigned long nuevoNumero = 0;
-	while (numero > 0) {
-		int dig = numero % 10;
-		numero = numero/ 10;
-		nuevoNumero = (nuevoNumero * 10) + dig;
-	}
-	return nuevoNumero;
-}
